@@ -1,12 +1,11 @@
-## Hi, I'm @woq
-
+## Hi , I'm @woq
+- 👋 Hi, I’m @woq
+- 👀 I’m interested in Front-end Developer
+- 🌱 I’m currently learning @Vuejs
+- 📫 How to reach me touch@evetry.xyz
 
 ## Project
-- 👋 Hi, I’m @woq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 woq/woq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
