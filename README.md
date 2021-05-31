@@ -1,5 +1,4 @@
-## Hi , I'm @woq
-- 👋 Hi, I’m @woq
+## 👋 Hi , I'm @woq
 - 👀 I’m interested in Front-end Developer
 - 🌱 I’m currently learning @Vuejs
 - 📫 How to reach me touch@evetry.xyz
