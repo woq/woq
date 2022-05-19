@@ -3,9 +3,8 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📫 How to reach me **3xleve@gmail.com**
+- 📫 How to reach me **Look up to the sky**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
