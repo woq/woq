@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 📫 How to reach me **Look up to the sky**
+- 📫 How to reach me **DREAM**
 
 <p align="left">
 </p>
