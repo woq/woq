@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WOQ</h1>
 <h3 align="center">Trying to be a backend engineer</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **Python Django and RESTFUL FRAMEWORK**
 
 - 📫 How to reach me **DREAM**
 
