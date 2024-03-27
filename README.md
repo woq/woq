@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm WOQ</h1>
-<h3 align="center">Trying to be a backend engineer</h3>
+<h3 align="center">SIT TIGHT AND WATCH THIS WORLD</h3>
 
-- 🌱 I’m currently learning **Python Django and RESTFUL FRAMEWORK**
+- 🌱 I’m currently learning ** NOTHING ! **
 
-- 📫 How to reach me **DREAM**
+- 📫 How to reach me ** IN DREAM SAY MY NAME **
 
 <p align="left">
 </p>
